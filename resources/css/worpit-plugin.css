@@ -1,0 +1,130 @@
+@CHARSET "ISO-8859-1";
+
+/* GENERAL STYLES */
+
+.spriteicon_img{text-decoration:none;margin:0 auto;background:url("../images/cpanel_icon_sprites_img.jpg");} #icon-Fantastico_De_Luxe{background-position:0 -1px;width:32px;height:32px;}#icon-addondomain{background-position:0 -35px;width:33px;height:32px;}#icon-analogstats{background-position:0 -69px;width:32px;height:32px;}#icon-anonymousmsg{background-position:0 -103px;width:32px;height:32px;}#icon-apache{background-position:0 -137px;width:45px;height:30px;}#icon-awstats{background-position:0 -169px;width:32px;height:32px;}#icon-backup-wizard{background-position:0 -203px;width:45px;height:32px;}#icon-basekit{background-position:0 -237px;width:32px;height:32px;}#icon-boxtrapper{background-position:0 -271px;width:35px;height:32px;}#icon-branding{background-position:0 -305px;width:32px;height:32px;}#icon-cgi-center{background-position:0 -339px;width:32px;height:32px;}#icon-changelang{background-position:0 -373px;width:32px;height:32px;}#icon-chooselog{background-position:0 -407px;width:32px;height:32px;}#icon-clam{background-position:0 -441px;width:32px;height:32px;}#icon-cloudflare{background-position:0 -475px;width:32px;height:32px;}#icon-cron{background-position:0 -509px;width:32px;height:32px;}#icon-csvimport{background-position:0 -543px;width:32px;height:32px;}#icon-defaultemailacct{background-position:0 -577px;width:32px;height:32px;}#icon-dfiltering{background-position:0 -611px;width:32px;height:32px;}#icon-email-reports{background-position:0 -645px;width:32px;height:32px;}#icon-emailauth{background-position:0 -679px;width:32px;height:32px;}#icon-emailmx{background-position:0 -713px;width:32px;height:32px;}#icon-emailroute{background-position:0 -747px;width:32px;height:32px;}#icon-enduserlve{background-position:0 -781px;width:32px;height:32px;}#icon-errorlogs{background-position:0 -815px;width:32px;height:32px;}#icon-errorpage{background-position:0 -849px;width:32px;height:32px;}#icon-favorites{background-position:0 -883px;width:32px;height:32px;}#icon-filemanager{background-position:0 -917px;width:32px;height:32px;}#icon-forwardersemail{background-position:0 -951px;width:32px;height:32px;}#icon-frontpage{background-position:0 -985px;width:25px;height:25px;}#icon-ftpaccounts{background-position:0 -1012px;width:32px;height:32px;}#icon-ftpcontrol{background-position:0 -1046px;width:32px;height:32px;}#icon-getstart{background-position:0 -1080px;width:32px;height:32px;}#icon-googleanalytics{background-position:0 -1114px;width:32px;height:32px;}#icon-hd{background-position:0 -1454px;width:32px;height:32px;}#icon-hdspace{background-position:0 -1488px;width:32px;height:32px;}#icon-hotlinkprotect{background-position:0 -1522px;width:32px;height:32px;}#icon-image-manager{background-position:0 -1556px;width:32px;height:32px;}#icon-index{background-position:0 -1590px;width:32px;height:32px;}#icon-inter_icon{background-position:0 -1624px;width:32px;height:32px;}#icon-ipdeny{background-position:0 -1658px;width:32px;height:32px;}#icon-keys{background-position:0 -1692px;width:32px;height:32px;}#icon-latestvisitors{background-position:0 -1726px;width:32px;height:32px;}#icon-leechprotect{background-position:0 -1760px;width:32px;height:32px;}#icon-legacy_filemanager{background-position:0 -1794px;width:32px;height:32px;}#icon-logaholic{background-position:0 -1828px;width:32px;height:32px;}#icon-lookandfeel{background-position:0 -1862px;width:32px;height:32px;}#icon-maillist{background-position:0 -1896px;width:32px;height:32px;}#icon-manageaccounts{background-position:0 -1930px;width:32px;height:32px;}#icon-mime-types{background-position:0 -1964px;width:32px;height:32px;}#icon-mysql{background-position:0 -1998px;width:45px;height:31px;}#icon-mysql-remoteaccess{background-position:0 -2031px;width:45px;height:31px;}#icon-mysql-wizard3{background-position:0 -2064px;width:45px;height:31px;}#icon-nettools{background-position:0 -2097px;width:32px;height:32px;}#icon-networkmonitor{background-position:0 -2131px;width:32px;height:32px;}#icon-optimizews{background-position:0 -2165px;width:32px;height:32px;}#icon-parkeddomains{background-position:0 -2199px;width:32px;height:32px;}#icon-password{background-position:0 -2233px;width:32px;height:32px;}#icon-password-protect{background-position:0 -2267px;width:32px;height:32px;}#icon-perl{background-position:0 -2301px;width:32px;height:32px;}#icon-php{background-position:0 -2335px;width:32px;height:32px;}#icon-php-pear{background-position:0 -2369px;width:32px;height:32px;}#icon-phpMyAdmin{background-position:0 -2403px;width:45px;height:34px;}#icon-phpPgAdmin{background-position:0 -2439px;width:50px;height:32px;}#icon-phpini{background-position:0 -2473px;width:32px;height:32px;}#icon-postgresql{background-position:0 -2507px;width:32px;height:32px;}#icon-postgresql-wizard{background-position:0 -2541px;width:45px;height:31px;}#icon-quickinstall{background-position:0 -2574px;width:32px;height:32px;}#icon-rails{background-position:0 -2608px;width:32px;height:32px;}#icon-rawaccesslogs{background-position:0 -2642px;width:32px;height:32px;}#icon-redirects{background-position:0 -2676px;width:33px;height:32px;}#icon-responder{background-position:0 -2710px;width:32px;height:32px;}#icon-ruby{background-position:0 -2744px;width:32px;height:32px;}#icon-rv_changetheme{background-position:0 -2778px;width:32px;height:32px;}#icon-scripts-library{background-position:0 -2812px;width:32px;height:32px;}#icon-sec_policy{background-position:0 -2846px;width:32px;height:32px;}#icon-simplezoneedit{background-position:0 -2880px;width:32px;height:32px;}#icon-spamassasin{background-position:0 -2914px;width:46px;height:32px;}#icon-ssh-shell-access{background-position:0 -2948px;width:37px;height:32px;}#icon-ssl-manager{background-position:0 -2982px;width:32px;height:32px;}#icon-subdomains{background-position:0 -3016px;width:43px;height:32px;}#icon-submit-support{background-position:0 -3050px;width:32px;height:32px;}#icon-tutorials{background-position:0 -3084px;width:32px;height:32px;}#icon-updatecontact{background-position:0 -3118px;width:32px;height:32px;}#icon-urchin{background-position:0 -3152px;width:43px;height:32px;}#icon-userfiltering{background-position:0 -3186px;width:32px;height:32px;}#icon-webalizerftp{background-position:0 -3220px;width:32px;height:32px;}#icon-webalizerlog{background-position:0 -3254px;width:32px;height:32px;}#icon-webdav{background-position:0 -3288px;width:32px;height:32px;}#icon-webemail{background-position:0 -3322px;width:32px;height:32px;}#icon-webtemplates{background-position:0 -3356px;width:32px;height:32px;}#icon-whm{background-position:0 -3390px;width:45px;height:32px;}#icon-zoneedit{background-position:0 -3424px;width:32px;height:32px;}
+
+.bootstrap-wpadmin {
+}
+
+.bootstrap-wpadmin h2 {
+	line-height: 35px;
+	margin: 0;
+}
+.bootstrap-wpadmin h3 {
+	font-size: 20px;
+	line-height: 10px;
+}
+.bootstrap-wpadmin .row {
+	margin-left: 0;
+}
+#worpit-icon {
+	 background: url("../images/worpit_32x32.png") no-repeat 0px 3px transparent;
+}
+/* Form elements */
+.bootstrap-wpadmin form fieldset {
+}
+.bootstrap-wpadmin .label {
+	vertical-align: baseline !important;
+}
+.shortcode-usage {
+	border-bottom: 1px solid #bbbbbb;
+	margin-bottom: 10px;
+}
+p.code-description {
+	font-style: italic;
+}
+/* Worpit promo */
+#worpit_button {
+	background: url("../images/bright_squares.png") #EFEFEF;
+}
+#worpit_button {
+	border: 1px solid #cccccc;
+	border-radius: 4px;
+	height: 190px;
+}
+#worpit_button:hover {
+	box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.4);
+	border: 1px solid transparent;
+}
+.row#developer_channel_promo #developer_channel_description .well {
+	height: 275px;
+}
+.row#developer_channel_promo #developer_channel_form {
+	border: 1px solid #EEE;
+	border-radius: 6px;
+	height: 315px; /* 275px + 20px-padding-x2 */
+}
+.row#developer_channel_promo #developer_channel_form h3 {
+	padding: 10px 20px;
+}
+
+/** LESS PAGE **/
+.enabled_section {
+	opacity: 1.0;
+}
+.disabled_section {
+	opacity: 0.5;
+}
+/* BOOSTRAP SETTINGS PAGE STYLES */
+.wrap .icon32 {
+	width: 32px;
+}
+.submit span {
+	font-size: smaller;
+	font-style: italic;
+}
+.option_section {
+	border: 1px solid #f2f2f2;
+	border-radius: 8px 8px 8px 8px;
+	margin-bottom: 8px;
+	padding: 8px 10px;
+}
+.option_section label {
+	background-color: transparent;
+}
+.selected_item label {
+	font-weight: bold;
+}
+.nonselected_item {
+	background-color: transparent;
+}
+.nonselected_item label {
+	font-weight: normal;
+}
+.option_section:hover {
+	background-color: #ffffff;
+	border: 1px dashed #BBBBBB;
+	cursor: pointer;
+}
+
+.option_section.active {
+	background-color: #f6f6f6;
+	border-color: #dddddd;
+}
+table.tbl_tbs_options {
+	width: 100%;
+	border: 1px solid transparent;
+}
+table.tbl_tbs_options tr td {
+	width: 49%;
+	border: 1px solid transparent;
+}
+
+select#hlt_bootstrap_option {
+	padding: 5px;
+	border-radius:6px 6px 6px 6px;
+	line-height: auto;
+	height: 30px;
+	width: 200px;
+}
+
+table#tbl_tbs_options_javascript td {
+	vertical-align: top;
+	width: 50%;
+}
+
+/** OPTIONS PAGES **/
+.bootstrap-wpadmin .row.row_number_1 {
+	padding-top: 18px;
+}
