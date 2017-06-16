@@ -1,6 +1,6 @@
 <?php
-include_once( dirname(__FILE__).DS.'worpit_options_helper.php' );
-include_once( dirname(__FILE__).DS.'widgets'.DS.'worpit_widgets.php' );
+include_once( dirname(__FILE__).ICWP_DS.'worpit_options_helper.php' );
+include_once( dirname(__FILE__).ICWP_DS.'widgets'.ICWP_DS.'worpit_widgets.php' );
 ?>
 <div class="wrap">
 	<div class="bootstrap-wpadmin">

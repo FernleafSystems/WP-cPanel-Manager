@@ -3,8 +3,8 @@ Contributors: paultgoodchild, dlgoodchild
 Donate link: http://www.icontrolwp.com/
 Tags: cPanel, manage
 Requires at least: 3.2.0
-Tested up to: 4.8
-Stable tag: 1.8.1
+Tested up to: 4.9
+Stable tag: 1.8.2
 
 == Description ==
 
@@ -127,6 +127,10 @@ We also created the [Manage Multiple WordPress Site Better Tool: iControlWP](htt
 * add ability to perform FULL cPanel backup and FTP offsite
 * add ability to perform cPanel backup of MySQL databases and FTP offsite
 * use ajax calls to load only necessary data to reduce API calls.
+
+= 1.8.2 =
+
+* FIX: Compatibility with PHP >= 5.6
 
 = 1.8.1 =
 
