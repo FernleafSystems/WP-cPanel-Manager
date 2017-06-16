@@ -1,9 +1,9 @@
 <?php
 
-include_once( dirname(__FILE__).DS.'worpit_cpm_tasks_cpanel_tab_mysql.php' );
-include_once( dirname(__FILE__).DS.'worpit_cpm_tasks_cpanel_tab_ftp.php' );
-include_once( dirname(__FILE__).DS.'worpit_cpm_tasks_cpanel_tab_email.php' );
-include_once( dirname(__FILE__).DS.'worpit_cpm_tasks_cpanel_tab_domains.php' );
+include_once( dirname(__FILE__).ICWP_DS.'worpit_cpm_tasks_cpanel_tab_mysql.php' );
+include_once( dirname(__FILE__).ICWP_DS.'worpit_cpm_tasks_cpanel_tab_ftp.php' );
+include_once( dirname(__FILE__).ICWP_DS.'worpit_cpm_tasks_cpanel_tab_email.php' );
+include_once( dirname(__FILE__).ICWP_DS.'worpit_cpm_tasks_cpanel_tab_domains.php' );
 
 	$aConnectionData = array(
 			$worpit_cpanel_server_address,

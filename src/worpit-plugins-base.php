@@ -1,6 +1,6 @@
 <?php
 
-class Worpit_Plugins_Base_Cpm {
+class Worpit_Plugins_Base_Cpm extends ICWP_CPM_Foundation {
 
 	static public $VERSION;
 
@@ -53,7 +53,7 @@ class Worpit_Plugins_Base_Cpm {
 	}//getFullParentMenuId
 
 	protected function display( $insView, $inaData = array() ) {
-		$sFile = dirname(__FILE__).DS.'..'.DS.self::ViewDir.DS.$insView.self::ViewExt;
+		$sFile = dirname(__FILE__).ICWP_DS.'..'.ICWP_DS.self::ViewDir.ICWP_DS.$insView.self::ViewExt;
 
 		if ( !is_file( $sFile ) ) {
 			echo "View not found: ".$sFile;
