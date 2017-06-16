@@ -51,7 +51,7 @@ class ICWP_CpanelManagerWordPress extends Worpit_Plugins_Base_Cpm {
 
 	protected $m_fSubmitCpmMainAttempt;
 
-	static public $VERSION = '1.8.1'; //SHOULD BE UPDATED UPON EACH NEW RELEASE
+	static public $VERSION = '1.8.2'; //SHOULD BE UPDATED UPON EACH NEW RELEASE
 
 	public function __construct() {
 		parent::__construct();
