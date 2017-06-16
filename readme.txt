@@ -3,8 +3,8 @@ Contributors: paultgoodchild, dlgoodchild
 Donate link: http://www.icontrolwp.com/
 Tags: cPanel, manage
 Requires at least: 3.2.0
-Tested up to: 4.8
-Stable tag: 1.8.1
+Tested up to: 4.9
+Stable tag: 1.8.2
 
 == Description ==
 
